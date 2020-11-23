@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="app_name_color">#202020</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="button_color">#78bef0</color>
+    <color name="button_stroke_color">#61bbf7</color>
+    <color name="hint_color">#bebebe</color>
+    <color name="gray_color">#e0e0e0</color>
+    <color name="white_gray_color">#f3f3f3</color>
+    <color name="red_color">#e00000</color>
+    <color name="good">#22dd55</color>
+    <color name="warning">#ff8800</color>
+    <color name="bad">#ff0000</color>
+    <color name="danger_zone_border_color">#90ff0000</color>
+    <color name="danger_zone_inner_color">#30ff0000</color>
+    <color name="graph_start">#33ff88</color>
+    <color name="graph_end">#ff5533</color>
+    <color name="warning_background">#70ffdd00</color>
+    <color name="bad_background">#70ff6666</color>
+    <color name="alpha">#00000000</color>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.smartvest">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.INJECT_EVENTS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_smart_vest"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_smart_vest_round"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyB-rUsJhXD-gKDB6KpszO0haAj75U5BLZA" />
+        <service android:name=".SafetyService"></service>
+        <service android:name=".ManagerService"></service>
+        <activity android:name=".IntroActivity"></activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ManagerLoginActivity"></activity>
+        <activity android:name=".ManagerMainActivity"></activity>
+        <activity android:name=".WorkerLoginActivity"
+            android:windowSoftInputMode="stateHidden|adjustPan"></activity>
+        <activity android:name=".ManagerMapActivity"></activity>
+        <activity android:name=".ManagerSafetyActivity"></activity>
+        <activity android:name=".WokerMainActivity"></activity>
+        <activity android:name=".WorkerMapActivity"></activity>
+        <activity android:name=".WorkerManualActivity"></activity>
+        <activity android:name=".ManualSmartVestActivity"></activity>
+        <activity android:name=".ManualVestConnectActivity"></activity>
+        <activity android:name=".ManualConstructActivity"></activity>
+        <activity android:name=".ManualGeneralActivity"></activity>
+        <activity android:name=".WorkerSafetyActivity"></activity>
+        <activity android:name=".test"></activity>
+    </application>
+
+</manifest>

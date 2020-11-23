@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_port">
+        <item>울산본항</item>
+        <item>온산항</item>
+        <item>미포항</item>
+        <item>울산신항</item>
+    </string-array>
+    <string-array name="select_wharf_ulsan_main_port">
+        <item>석탄부두</item>
+        <item>1부두</item>
+        <item>2부두</item>
+        <item>3부두</item>
+        <item>4부두</item>
+        <item>5부두</item>
+        <item>6부두</item>
+        <item>7부두</item>
+        <item>8부두</item>
+        <item>9부두</item>
+        <item>일반부두</item>
+        <item>용잠1부두</item>
+        <item>용잠2부두</item>
+        <item>양곡부두</item>
+        <item>가스부두</item>
+        <item>자동차부두</item>
+        <item>염포부두</item>
+        <item>남화부두</item>
+        <item>UTT부두</item>
+        <item>SK1부두</item>
+        <item>SK2부두</item>
+        <item>SK3부두</item>
+        <item>SK4부두</item>
+        <item>SK5부두</item>
+        <item>SK6부두</item>
+        <item>SK7부두</item>
+        <item>SK8부두</item>
+    </string-array>
+    <string-array name="select_wharf_onsan_port">
+        <item>온산1부두</item>
+        <item>온산2부두</item>
+        <item>온산3부두</item>
+        <item>온산4부두</item>
+        <item>정일컨부두</item>
+        <item>효성부두</item>
+        <item>달포부두</item>
+        <item>동북부두</item>
+        <item>S-Oil1부두</item>
+        <item>S-Oil2부두</item>
+        <item>S-Oil3부두</item>
+        <item>정일1부두</item>
+        <item>정일2부두</item>
+        <item>대한유부두</item>
+        <item>OTK1부두</item>
+        <item>OTK2부두</item>
+        <item>UTK부두</item>
+    </string-array>
+    <string-array name="select_wharf_mipo_port">
+        <item>미포부두</item>
+    </string-array>
+    <string-array name="select_wharf_ulsan_new_port">
+        <item>신항일반부두</item>
+        <item>신항컨부두</item>
+        <item>용연부두</item>
+        <item>세방신항부두</item>
+        <item>대한통운신항부두</item>
+        <item>한진신항부두</item>
+        <item>신항남방파제 T/S부두</item>
+        <item>신항북방파제 T/S부두</item>
+        <item>현대오일터미널</item>
+        <item>정일스톨트헤븐 울산신항3부두</item>
+        <item>정일스톨트헤븐 울산신항4부두</item>
+        <item>정일스톨트헤븐 울산신항5부두</item>
+        <item>LS니꼬신항부두</item>
+        <item>태영GLS신항부두</item>
+    </string-array>
+    <string-array name="select_company">
+        <item>울산항공사</item>
+        <item>신흥사</item>
+        <item>신항사</item>
+        <item>고려항만</item>
+        <item>한국보팍터미널</item>
+        <item>6부두</item>
+        <item>7부두</item>
+        <item>SK에너지</item>
+        <item>태영인더스트리</item>
+        <item>SK가스</item>
+        <item>현대자동차</item>
+        <item>동방</item>
+        <item>대주중공업</item>
+        <item>케이지케미칼</item>
+        <item>LS니꼬동제련</item>
+        <item>고려아연</item>
+        <item>라파즈한라시멘트</item>
+        <item>울산컨테이너터미널(JUCT)</item>
+        <item>효성</item>
+        <item>동북화학</item>
+        <item>S-Oil</item>
+        <item>정일스톨트헤븐</item>
+        <item>대한유화</item>
+        <item>오드펠터미널코리아</item>
+        <item>유나이티드터미널코리아</item>
+        <item>한국석유공사</item>
+        <item>현대중공업</item>
+        <item>울산신항컨테이너터미널(UNCT)</item>
+        <item>세방</item>
+        <item>씨제이대한통운</item>
+        <item>한진</item>
+        <item>현대오일터미널</item>
+        <item>태영GLS</item>
+    </string-array>
+</resources>
