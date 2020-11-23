@@ -66,9 +66,9 @@ IoT 센서 기반의 스마트 해상물류 안전을 위한 스마트 �
 ***
 해상작업 시 알아야 할 안전 매뉴얼, 항만 작업자 안전 매뉴얼, 스마트 안전 조끼 사용법 매뉴얼 등의 정보를 제공한다. 
 
-> <img src="https://user-images.githubusercontent.com/53392870/99923227-28470300-2d78-11eb-9b48-8929571d5776.png">
-> <img src="https://user-images.githubusercontent.com/53392870/99923232-2c732080-2d78-11eb-9a96-81af7fd1c3c7.png">
-> <img src="https://user-images.githubusercontent.com/53392870/99923238-309f3e00-2d78-11eb-9ce7-768144677b1f.png">
+> <img src="https://user-images.githubusercontent.com/53392870/99923227-28470300-2d78-11eb-9b48-8929571d5776.png" width="60%">
+> <img src="https://user-images.githubusercontent.com/53392870/99923232-2c732080-2d78-11eb-9a96-81af7fd1c3c7.png" width="60%">
+> <img src="https://user-images.githubusercontent.com/53392870/99923238-309f3e00-2d78-11eb-9ce7-768144677b1f.png" width="60%">
 
 ### 작품 기대효과
 ***
